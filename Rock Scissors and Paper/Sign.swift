@@ -51,37 +51,7 @@ enum Sign {
     }
 }
     
-//    func getResult(_oposite:Sign) -> GameState {
-//        switch self {
-//        case.rock:
-//            switch _oposite {
-//            case .rock:
-//                return .draw
-//            case .paper:
-//                return.lose
-//            case .scissors:
-//                return.win
-//            }
-//        case.paper:
-//            switch _oposite {
-//            case .rock:
-//                return .win
-//            case .paper:
-//                return.draw
-//            case .scissors:
-//                return.lose
-//            }
-//        case.scissors:
-//            switch _oposite {
-//            case .rock:
-//                return .lose
-//            case .paper:
-//                return.win
-//            case .scissors:
-//                return.draw
-//            }
-//        }
-//    }
+
 
 
 
